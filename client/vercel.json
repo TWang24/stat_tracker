@@ -1,0 +1,9 @@
+{
+    "version": 2,
+    "buildCommand": "npm run build",
+    "devCommand": "npm start",
+    "outputDirectory": "build",
+    "env": {
+      "REACT_APP_API_URL": "https://stat-tracker-1jwl.onrender.com"
+    }
+  }

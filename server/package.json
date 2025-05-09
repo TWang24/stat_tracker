@@ -1,5 +1,5 @@
 {
-  "name": "board-game-tracker-server",
+  "name": "stat-tracker-server",
   "version": "1.0.0",
   "description": "Backend for Board Game Stats Tracker",
   "main": "index.js",
@@ -9,6 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
+    "stat",
     "board-game",
     "tracker",
     "mongodb",
