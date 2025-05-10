@@ -9,8 +9,8 @@ import Login from './pages/Login';
 import Register from './pages/Register';
 import Dashboard from './pages/Dashboard';
 import GameForm from './pages/GameForm.js';
-import GameDetail from './pages/GameDetail';
-import NotFound from './pages/NotFound';
+// import GameDetail from './pages/GameDetail';
+// import NotFound from './pages/NotFound';
 
 // Import components
 import Navbar from './components/Navbar';

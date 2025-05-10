@@ -42,4 +42,5 @@ yarn-error.log*
 # Package files
 package-lock.json
 yarn.lock
-# ^ Comment these out if you're working in a team that uses the same package manager
+
+.vercel
